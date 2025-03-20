@@ -1,6 +1,6 @@
 # consumo_API_2025
 1° Avaliação do 1° Semestre de 2025
-* A primeita etapa foi criar um Ambiente Virtual e ativá-lo
+* A primeita etapa foi criar um diretório para esse projeto, onde criei dentro dele um Ambiente Virtual e ativei ele
 * Após isso, criei os arquivos "main.py" e "api.py"
 * O "main.py" é o código principal, onde são realizados os prints na tela do console
 * No "api.py", foi criado as classes onde consumiriam APIs específicas, com seus respectivos métodos
